@@ -1,3 +1,4 @@
+/*****Lorenz system using Eular method****/
 import java.lang.*;
 import java.util.Random;
 import java.io.*;
