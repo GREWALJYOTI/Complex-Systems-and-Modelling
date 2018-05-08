@@ -1,4 +1,4 @@
-/*********VANDERPOL OSCILLATOR USING RUNGE-KUTTA RK4 METHOD**********/
+/*********COUPLED VANDERPOL OSCILLATOR USING RUNGE-KUTTA RK4 METHOD**********/
 import java.lang.*;
 import java.util.Random;
 import java.io.*;
